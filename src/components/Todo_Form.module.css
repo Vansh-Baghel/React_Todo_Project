@@ -1,0 +1,28 @@
+.form{
+    color: white;
+    text-align: center;
+    font-size: larger;
+    padding: 1rem;
+    width: 60%;
+    display: grid;
+    margin: auto;
+    background-color: purple;
+    border-radius: 10px;
+    margin-top: 1rem;
+}
+
+.inputDiv{
+    padding: 1rem;
+    padding-bottom: 2rem;
+    font-size: larger;
+}
+
+.inputField{
+    width: 100%;
+    margin-top: 0.5rem;
+    height: 2.5rem;
+    font-size: inherit;
+    outline: none;
+    border-radius: 10px;
+    padding: 0.7rem;
+}
